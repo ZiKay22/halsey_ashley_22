@@ -1,0 +1,45 @@
+body{
+    box-sizing: border-box;
+   background-image: url('pro.jpg');
+}
+.subm{
+    box-sizing: border-box;
+    
+    margin-right: 300px;
+   
+}
+.a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.subm input{
+width: 300px;
+height: 30px;
+margin-top: 20px;
+border: 2px red solid;
+border-radius: 10px;
+}
+.subm textarea{
+    width: 300px;
+    margin-top: 20px;
+border: 2px red solid;
+border-radius: 10px;
+}
+.submit input{
+    box-sizing: border-box;
+    background-color: brown;
+}
+.t{
+    border: 2px red solid;
+    border-radius: 10px;
+}
+table{
+    width: 300px;
+    background-color: azure;
+    border-radius: 10px;
+}
+.o{
+    margin-top:100px;
+}

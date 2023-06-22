@@ -1,0 +1,66 @@
+body{
+    box-sizing: border-box;
+   background: url('tumblr_30aa91d72eff25a3a7b235b04b54c52f_d7150d34_540.jpg') no-repeat top center;
+   background-size: 100%; 
+
+}
+ .subm{
+    box-sizing: border-box;
+    margin-top:50px; 
+    margin-right:100px;
+   
+}
+.a{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    
+}
+.subm input{
+ width: 300px;
+height: 30px; 
+margin-top: 20px;
+border: 2px red solid;
+border-radius: 10px;
+margin-left: 100px;
+
+}
+.subm textarea{
+    width: 300px;
+    margin-top: 20px;
+border: 2px red solid;
+border-radius: 10px;
+margin-left: 100px;
+}
+.submit input{
+    box-sizing: border-box;
+    background-color: brown;
+}
+.t{
+    border: 2px red solid;
+    border-radius: 10px;
+}
+table{
+    /* width: 500px; */
+    background-color: azure;
+    border-radius: 10px;
+    /* width: 700px;
+    height: 500px; */
+   
+}
+.o{
+    margin-top:100px; 
+    margin-right: 50px;
+}
+.t a{
+    color:gray;
+}
+.t input{
+    background-color: brown;
+}
+th{
+    width: 150px;
+}
+/* .t table{
+    width: 500px;
+}   */
